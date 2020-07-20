@@ -14,4 +14,4 @@
 </p>
 
 ---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=wuon" alt="wuon" /> </p>
+<p align="center"> <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="wuon" /> </p>
