@@ -12,6 +12,4 @@
     <img alt="LeetCode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
   </a>
 </p>
-
----
 <p align="center"> <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="wuon" /> </p>
