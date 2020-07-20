@@ -4,9 +4,9 @@ Hi there 👋
 
 ```javascript
 const wuon = {
-  languages: [Javascript, Python, Java, Ruby],
-  previousEmployers: [Shopify, Prontoforms, Google, Groupe Nordik]
-  quote: "To try and fail is at least to learn; to fail to try is to suffer the inestimable loss of what might have been."
+  languages: ['Javascript', 'Python', 'Java', 'Ruby'],
+  previousEmployers: ['Shopify', 'Prontoforms', 'Google', 'Groupe Nordik'],
+  quote: 'To try and fail is at least to learn; to fail to try is to suffer the inestimable loss of what might have been.',
 }
 ```
 ---
