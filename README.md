@@ -4,10 +4,10 @@
 <p align="center">
   <a href="https://ca.linkedin.com/in/danielktwu">
     <img alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
-  </a>
+  </a>&nbsp;
   <a href="https://instagram.com/danielktwu/">
     <img alt="Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
+  </a>&nbsp;
   <a href="https://leetcode.com/0x77756f6e/">
     <img alt="LeetCode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
   </a>
